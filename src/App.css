@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+header{
+    text-align: center;
+    background-color: aqua;
+    padding: 1rem;
+}
+
+header h2{
+    margin-bottom: 2rem;
+}
+
+.listDiv {
+    text-align: center;
+}
+
+.listDiv p{
+    margin: 1rem;
+}
+
+.listDiv li{
+    margin: 1rem;
+    list-style: none;
+}
+
+.color-form{
+    width: 600px;
+    height: 400px;
+    background-color: aqua;
+    margin: auto;
+    margin-top: 200px;
+    text-align: center;
+}
+
+.color-form input{
+    height: 40px;
+    width: 180px;
+    margin-bottom: 10px;
+}
+
+.color-form button{
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 20px;
+    border: none;
+}
+
+.colorDiv{
+    height: 200px;
+    width: 200px;
+}
